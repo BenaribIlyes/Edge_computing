@@ -1,10 +1,11 @@
 {
     "activation": "relu",
-    "conv_filters": 80,
+    "conv_filters": 64,
     "ds_filters_1": 112,
-    "ds_filters_2": 64,
-    "dense_units": 64,
-    "dropout_rate": 0.43364809428876816,
-    "max_epochs": 40,
-    "BATCH_SIZE": 32
+    "ds_filters_2": 32,
+    "dense_units": 32,
+    "dropout_rate": 0.21590058116550723,
+    "kernell": 3,
+    "max_epochs": 80,
+    "BATCH_SIZE": 64
 }
